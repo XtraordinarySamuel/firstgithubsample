@@ -1,0 +1,1 @@
+This is a log file. Log files aren't normally added to repositories
